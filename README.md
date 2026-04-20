@@ -7,11 +7,11 @@ Full-Stack E-Commerce Developer | Shopify Expert | Custom Theme Developer
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 I'm a **Full-Stack E-Commerce Developer** specializing in Shopify and custom online store solutions. With over **8+ years of experience**, I've helped businesses of all sizes launch and scale their online presence.
-My approach combines **technical expertise** with a **deep understanding of e-commerce** best practices. From custom Shopify themes to complex app integrations, I build solutions that not only look beautiful but also drive conversions and revenue.
+My approach combines **technical expertise** with **deep understanding** of e-commerce best practices. From custom Shopify themes to complex app integrations, I build solutions that not only look beautiful but also drive conversions and revenue.
 
 - 😄 I am handsome and cool.
 - 😎 One Developer Army 💪💪
-- 🔭 I’m currently working on a [lot of projects](https://github.com/virgo-guy?tab=repositories), especially backends !!
+- 🔭 I’m currently working on a [lot of projects](https://github.com/virgo-guy?tab=repositories), especially e-commerce !!
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2026 Goals: $100,000
 - ⚡ Fun fact: I love code and beautiful girl 🤣🤣
