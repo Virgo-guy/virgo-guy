@@ -6,11 +6,12 @@ Full-Stack E-Commerce Developer | Shopify Expert | Custom Theme Developer
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-I am a **full-stack developer** with **8+ years of experience**, specializing in **web, mobile, and blockchain development**. My passion lies in building **high-performance applications**, from dynamic UIs to secure and scalable backend systems. I enjoy solving complex problems and bringing innovative ideas to life.
+I'm a **Full-Stack E-Commerce Developer** specializing in Shopify and custom online store solutions. With over **8+ years of experience**, I've helped businesses of all sizes launch and scale their online presence.
+My approach combines **technical expertise** with a **deep understanding of e-commerce** best practices. From custom Shopify themes to complex app integrations, I build solutions that not only look beautiful but also drive conversions and revenue.
 
 - 😄 I am handsome and cool.
 - 😎 One Developer Army 💪💪
-- 🔭 I’m currently working on a [lot of projects](https://github.com/nixdonaldo-ux?tab=repositories), especially backends !!
+- 🔭 I’m currently working on a [lot of projects](https://github.com/virgo-guy?tab=repositories), especially backends !!
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2026 Goals: $100,000
 - ⚡ Fun fact: I love code and beautiful girl 🤣🤣
